@@ -6,8 +6,10 @@ En un solo lugar puedes ver cotizaciones, el RSI, un análisis técnico, alertas
 
 A partir de la versión 1.0.167, al arrancar consulta si hay una versión más reciente. Si la hay, avisa y puede descargar el instalador. Las listas, los portafolios y la configuración se conservan.
 
-Instalador, manual y presentación de la versión 1.0.167.
+Esta versión añade el mapa de calor. Muestra de un vistazo una lista de seguimiento, el S&P 500, solo ETF o criptomonedas. El tamaño es la capitalización y el color es la variación del día. Se consulta al elegirlo y otra vez con el botón Actualizar.
 
-- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.167/SwingTrade-Setup.exe)
-- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.167/Manual-de-usuario-SwingTrade.pdf)
-- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.167/Presentacion-SwingTrade.pdf)
+Instalador, manual y presentación de la versión 1.0.179.
+
+- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.179/SwingTrade-Setup.exe)
+- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.179/Manual-de-usuario-SwingTrade.pdf)
+- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.179/Presentacion-SwingTrade.pdf)
