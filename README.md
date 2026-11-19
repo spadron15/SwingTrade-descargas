@@ -8,10 +8,10 @@ A partir de la versión 1.0.167, al arrancar consulta si hay una versión más r
 
 El mapa de calor se abre dentro de la ventana principal. Muestra una lista de seguimiento o los mapas fijos S&P 500, Solo ETF's y Criptomonedas. Esas listas fijas se revisan si tienen más de un día y también con Actualizar. El tamaño es la capitalización y el color es la variación del día.
 
-También puedes ver una gráfica intradía en Listas de seguimiento, y columnas opcionales de valor intrínseco y margen % (beneficio por acción × un múltiplo de Configuración). Es una referencia sencilla, no un precio objetivo ni una recomendación.
+También puedes ver una gráfica intradía en Listas de seguimiento, y columnas opcionales de valor intrínseco y margen % (beneficio por acción × un múltiplo de Configuración). Es una referencia sencilla, no un precio objetivo ni una recomendación. En las gráficas intradía y diaria el logo del activo aparece a la izquierda de la clave.
 
-Instalador, manual y presentación de la versión 1.0.206.
+Instalador, manual y presentación de la versión 1.0.223.
 
-- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.206/SwingTrade-Setup.exe)
-- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.206/Manual-de-usuario-SwingTrade.pdf)
-- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.206/Presentacion-SwingTrade.pdf)
+- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.223/SwingTrade-Setup.exe)
+- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.223/Manual-de-usuario-SwingTrade.pdf)
+- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.223/Presentacion-SwingTrade.pdf)
