@@ -6,10 +6,12 @@ En un solo lugar puedes ver cotizaciones, el RSI, un análisis técnico, alertas
 
 A partir de la versión 1.0.167, al arrancar consulta si hay una versión más reciente. Si la hay, avisa y puede descargar el instalador. Las listas, los portafolios y la configuración se conservan.
 
-Esta versión muestra el mapa de calor dentro de la ventana principal, como las demás pantallas. Muestra de un vistazo una lista de seguimiento, el S&P 500, solo ETF o criptomonedas. El tamaño es la capitalización y el color es la variación del día. Se consulta al elegirlo y otra vez con el botón Actualizar.
+El mapa de calor se abre dentro de la ventana principal. Muestra una lista de seguimiento o los mapas fijos S&P 500, Solo ETF's y Criptomonedas. Esas listas fijas se revisan si tienen más de un día y también con Actualizar. El tamaño es la capitalización y el color es la variación del día.
 
-Instalador, manual y presentación de la versión 1.0.187.
+También puedes ver una gráfica intradía en Listas de seguimiento, y columnas opcionales de valor intrínseco y margen % (beneficio por acción × un múltiplo de Configuración). Es una referencia sencilla, no un precio objetivo ni una recomendación.
 
-- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.187/SwingTrade-Setup.exe)
-- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.187/Manual-de-usuario-SwingTrade.pdf)
-- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.187/Presentacion-SwingTrade.pdf)
+Instalador, manual y presentación de la versión 1.0.206.
+
+- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.206/SwingTrade-Setup.exe)
+- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.206/Manual-de-usuario-SwingTrade.pdf)
+- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.206/Presentacion-SwingTrade.pdf)
