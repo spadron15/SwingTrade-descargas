@@ -2,9 +2,9 @@
 
 SwingTrade es un programa de escritorio para Windows. Sirve para seguir acciones, ETF, criptomonedas e índices con una mirada de swing trading: operaciones de varios días o semanas, no de minutos.
 
-En un solo lugar puedes ver cotizaciones, el RSI, un análisis técnico, alertas, una simulación histórica, el reparto de un portafolio y un escenario de precio. SwingTrade no compra ni vende por ti. Los precios vienen de Yahoo Finance. Las señales, los pesos y los escenarios son una referencia para investigar, no una recomendación de inversión.
+En un solo lugar puedes ver cotizaciones, el RSI, un análisis técnico, alertas, una simulación histórica, el mapa de calor, el reparto de un portafolio y un escenario de precio. SwingTrade no compra ni vende por ti. Los precios vienen de Yahoo Finance. Las señales, los pesos y los escenarios son una referencia para investigar, no una recomendación de inversión.
 
-A partir de la versión 1.0.167, al arrancar consulta si hay una versión más reciente. Si la hay, avisa y puede descargar el instalador. Las listas, los portafolios y la configuración se conservan.
+A partir de la versión 1.0.167, al arrancar consulta si hay una versión más reciente. Si la hay, avisa y puede descargar el instalador. Tras actualizar, una pantalla de novedades resume lo nuevo una sola vez. Las listas, los portafolios y la configuración se conservan.
 
 El mapa de calor se abre dentro de la ventana principal. Muestra una lista de seguimiento o los mapas fijos S&P 500, Solo ETF's y Criptomonedas. Esas listas fijas se revisan si tienen más de un día y también con Actualizar. El tamaño es la capitalización y el color es la variación del día.
 
@@ -12,8 +12,8 @@ También puedes ver una gráfica intradía en Listas de seguimiento, y columnas 
 
 En Predicciones y en Optimización puedes abrir la gráfica del método (trayectorias, frontera riesgo/rendimiento, Risk Parity, CVaR). La calculadora de portafolio usa por defecto 30 % de efectivo. Cada símbolo y cada tipo de alerta salen una sola vez al día, también el máximo y el mínimo de 52 semanas.
 
-Instalador, manual y presentación de la versión 1.0.253.
+Instalador, manual y presentación de la versión 1.0.257.
 
-- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.253/SwingTrade-Setup.exe)
-- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.253/Manual-de-usuario-SwingTrade.pdf)
-- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.253/Presentacion-SwingTrade.pdf)
+- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.257/SwingTrade-Setup.exe)
+- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.257/Manual-de-usuario-SwingTrade.pdf)
+- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.257/Presentacion-SwingTrade.pdf)
