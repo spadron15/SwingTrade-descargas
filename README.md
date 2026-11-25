@@ -10,10 +10,10 @@ El mapa de calor se abre dentro de la ventana principal. Muestra una lista de se
 
 También puedes ver una gráfica intradía en Listas de seguimiento, y columnas opcionales de valor intrínseco y margen % (beneficio por acción × un múltiplo de Configuración). Es una referencia sencilla, no un precio objetivo ni una recomendación. En las gráficas intradía y diaria el logo del activo aparece a la izquierda de la clave.
 
-En Predicciones y en Optimización puedes abrir la gráfica del método (trayectorias, frontera riesgo/rendimiento, Risk Parity, CVaR). La calculadora de portafolio usa por defecto 30 % de efectivo.
+En Predicciones y en Optimización puedes abrir la gráfica del método (trayectorias, frontera riesgo/rendimiento, Risk Parity, CVaR). La calculadora de portafolio usa por defecto 30 % de efectivo. Cada símbolo y cada tipo de alerta salen una sola vez al día, también el máximo y el mínimo de 52 semanas.
 
-Instalador, manual y presentación de la versión 1.0.247.
+Instalador, manual y presentación de la versión 1.0.253.
 
-- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.247/SwingTrade-Setup.exe)
-- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.247/Manual-de-usuario-SwingTrade.pdf)
-- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.247/Presentacion-SwingTrade.pdf)
+- [SwingTrade-Setup.exe](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.253/SwingTrade-Setup.exe)
+- [Manual de usuario (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.253/Manual-de-usuario-SwingTrade.pdf)
+- [Presentación (PDF)](https://github.com/spadron15/SwingTrade-descargas/releases/download/v1.0.253/Presentacion-SwingTrade.pdf)
